@@ -1,0 +1,1305 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "rows": 1,
+      "cols": 6,
+      "minMoves": 1,
+      "grid": [
+        ["green", "green", "red", "green", "red", "red"]
+      ]
+    },
+    {
+      "level": 2,
+      "rows": 3,
+      "cols": 2,
+      "minMoves": 1,
+      "grid": [
+        ["red", "green"],
+        ["green", "red"],
+        ["red", "green"]
+      ]
+    },
+    {
+      "level": 3,
+      "rows": 2,
+      "cols": 3,
+      "minMoves": 1,
+      "grid": [
+        ["red", "green", "red"],
+        ["green", "red", "green"]
+      ]
+    },
+    {
+      "level": 4,
+      "rows": 2,
+      "cols": 3,
+      "minMoves": 2,
+      "grid": [
+        ["blue", "blue", "red"],
+        ["red", "blue", "red"]
+      ]
+    },
+    {
+      "level": 5,
+      "rows": 3,
+      "cols": 3,
+      "minMoves": 2,
+      "grid": [
+        ["red", "green", "blue"],
+        ["blue", "red", "green"],
+        ["blue", "red", "green"]
+      ]
+    },
+    {
+      "level": 6,
+      "rows": 3,
+      "cols": 3,
+      "minMoves": 3,
+      "grid": [
+        ["blue", "blue", "red"],
+        ["green", "green", "blue"],
+        ["red", "green", "red"]
+      ]
+    },
+    {
+      "level": 7,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 3,
+      "grid": [
+        ["blue", "yellow", "blue", "red", "red", "red"],
+        ["yellow", "green", "blue", "yellow", "green", "green"]
+      ]
+    },
+    {
+      "level": 8,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 4,
+      "grid": [
+        ["blue", "blue", "red", "yellow", "yellow", "yellow"],
+        ["red", "green", "red", "green", "blue", "green"]
+      ]
+    },
+    {
+      "level": 9,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 4,
+      "grid": [
+        ["red", "yellow", "green", "green"],
+        ["yellow", "yellow", "red", "red"],
+        ["green", "blue", "blue", "blue"]
+      ]
+    },
+    {
+      "level": 10,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 5,
+      "grid": [
+        ["red", "red", "green", "red"],
+        ["blue", "yellow", "yellow", "blue"],
+        ["green", "blue", "green", "yellow"]
+      ]
+    },
+
+
+    {
+      "level": 11,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 4,
+      "grid": [
+        ["green", "blue", "yellow", "yellow"],
+        ["yellow", "blue", "red", "blue"],
+        ["green", "red", "green", "red"]
+      ]
+    },
+    {
+      "level": 12,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 4,
+      "grid": [
+        ["yellow", "green", "blue", "red", "green", "blue"],
+        ["green", "yellow", "yellow", "red", "blue", "red"]
+      ]
+    },
+    {
+      "level": 13,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 5,
+      "grid": [
+        ["blue", "red", "red", "blue"],
+        ["yellow", "green", "blue", "green"],
+        ["green", "yellow", "yellow", "red"]
+      ]
+    },
+    {
+      "level": 14,
+      "rows": 4,
+      "cols": 3,
+      "minMoves": 5,
+      "grid": [
+        ["red", "green", "yellow"],
+        ["red", "blue", "blue"],
+        ["green", "red", "yellow"],
+        ["blue", "green", "yellow"]
+      ]
+    },
+    {
+      "level": 15,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 6,
+      "grid": [
+        ["blue", "red", "blue", "yellow"],
+        ["green", "green", "blue", "green"],
+        ["yellow", "red", "red", "yellow"]
+      ]
+    },
+    {
+      "level": 16,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 5,
+      "grid": [
+        ["red", "red", "green", "red", "blue", "blue"],
+        ["yellow", "green", "yellow", "blue", "yellow", "green"]
+      ]
+    },
+    {
+      "level": 17,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 6,
+      "grid": [
+        ["yellow", "green", "blue", "red"],
+        ["red", "red", "blue", "yellow"],
+        ["yellow", "green", "green", "blue"]
+      ]
+    },
+    {
+      "level": 18,
+      "rows": 4,
+      "cols": 3,
+      "minMoves": 6,
+      "grid": [
+        ["yellow", "red", "green"],
+        ["yellow", "red", "yellow"],
+        ["green", "blue", "red"],
+        ["blue", "blue", "green"]
+      ]
+    },
+    {
+      "level": 19,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 7,
+      "grid": [
+        ["red", "red", "yellow", "green", "red", "yellow"],
+        ["green", "yellow", "blue", "blue", "green", "blue"]
+      ]
+    },
+    {
+      "level": 20,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 7,
+      "grid": [
+        ["blue", "yellow", "blue", "green"],
+        ["green", "red", "red", "green"],
+        ["yellow", "red", "yellow", "blue"]
+      ]
+    },
+
+    {
+      "level": 21,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 4,
+      "grid": [
+        ["yellow", "green", "yellow", "blue"],
+        ["yellow", "red", "blue", "green"],
+        ["green", "red", "red", "blue"]
+      ],
+      "locked": [
+        [0, 0],
+        [2, 3]
+      ]
+    },
+    {
+      "level": 22,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 5,
+      "grid": [
+        ["blue", "blue", "green", "red"],
+        ["blue", "yellow", "green", "red"],
+        ["yellow", "green", "red", "yellow"]
+      ],
+      "locked": [
+        [1, 1],
+        [1, 2]
+      ]
+    },
+    {
+      "level": 23,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 5,
+      "grid": [
+        ["red", "red", "yellow", "blue", "red", "blue"],
+        ["blue", "yellow", "yellow", "green", "green", "green"]
+      ],
+      "locked": [
+        [0, 0],
+        [1, 5]
+      ]
+    },
+    {
+      "level": 24,
+      "rows": 4,
+      "cols": 3,
+      "minMoves": 5,
+      "grid": [
+        ["yellow", "yellow", "yellow"],
+        ["red", "red", "blue"],
+        ["blue", "green", "blue"],
+        ["green", "red", "green"]
+      ],
+      "locked": [
+        [0, 1],
+        [3, 1]
+      ]
+    },
+    {
+      "level": 25,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 6,
+      "grid": [
+        ["blue", "red", "green", "green"],
+        ["yellow", "green", "red", "blue"],
+        ["yellow", "blue", "yellow", "red"]
+      ],
+      "locked": [
+        [0, 3],
+        [2, 0]
+      ]
+    },
+    {
+      "level": 26,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 6,
+      "grid": [
+        ["blue", "yellow", "blue", "red", "red", "green"],
+        ["blue", "yellow", "yellow", "red", "green", "green"]
+      ],
+      "locked": [
+        [0, 2],
+        [1, 3]
+      ]
+    },
+    {
+      "level": 27,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 6,
+      "grid": [
+        ["green", "red", "blue", "blue"],
+        ["green", "red", "yellow", "red"],
+        ["yellow", "yellow", "green", "blue"]
+      ],
+      "locked": [
+        [0, 1],
+        [1, 2],
+        [2, 3]
+      ]
+    },
+    {
+      "level": 28,
+      "rows": 4,
+      "cols": 3,
+      "minMoves": 7,
+      "grid": [
+        ["yellow", "blue", "blue"],
+        ["red", "green", "green"],
+        ["green", "blue", "yellow"],
+        ["yellow", "red", "red"]
+      ],
+      "locked": [
+        [0, 0],
+        [2, 1],
+        [3, 2]
+      ]
+    },
+    {
+      "level": 29,
+      "rows": 2,
+      "cols": 6,
+      "minMoves": 7,
+      "grid": [
+        ["yellow", "yellow", "blue", "blue", "green", "red"],
+        ["blue", "green", "yellow", "red", "green", "red"]
+      ],
+      "locked": [
+        [0, 1],
+        [0, 4],
+        [1, 3]
+      ]
+    },
+    {
+      "level": 30,
+      "rows": 3,
+      "cols": 4,
+      "minMoves": 8,
+      "grid": [
+        ["blue", "red", "blue", "yellow"],
+        ["green", "yellow", "red", "yellow"],
+        ["green", "red", "green", "blue"]
+      ],
+      "locked": [
+        [0, 2],
+        [1, 0],
+        [1, 3],
+        [2, 1]
+      ]
+    },
+    
+  {
+    "level": 31,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["red", "blue", "blue", "red"],
+      ["green", "yellow", "blue", "green"],
+      ["green", "yellow", "yellow", "red"]
+    ],
+    "locked": [[2, 0], [0, 1]]
+  },
+  {
+    "level": 32,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 4,
+    "grid": [
+      ["yellow", "yellow", "blue"],
+      ["red", "red", "blue"],
+      ["yellow", "green", "red"],
+      ["green", "blue", "green"]
+    ],
+    "locked": [[0, 2], [0, 0]]
+  },
+  {
+    "level": 33,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 5,
+    "grid": [
+      ["blue", "green", "blue", "red"],
+      ["blue", "green", "red", "yellow"],
+      ["yellow", "yellow", "red", "green"]
+    ],
+    "locked": [[0, 3], [1, 1]]
+  },
+  {
+    "level": 34,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 5,
+    "grid": [
+      ["yellow", "blue", "blue"],
+      ["green", "green", "yellow"],
+      ["red", "blue", "green"],
+      ["red", "yellow", "red"]
+    ],
+    "locked": [[1, 2], [0, 1]]
+  },
+  {
+    "level": 35,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 6,
+    "grid": [
+      ["red", "green", "yellow", "yellow"],
+      ["blue", "green", "yellow", "blue"],
+      ["red", "blue", "red", "green"]
+    ],
+    "locked": [[2, 0], [0, 2]]
+  },
+  {
+    "level": 36,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["yellow", "red", "red"],
+      ["green", "yellow", "green"],
+      ["green", "yellow", "blue"],
+      ["red", "blue", "blue"]
+    ],
+    "locked": [[1, 0], [0, 2]]
+  },
+  {
+    "level": 37,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 6,
+    "grid": [
+      ["red", "green", "red", "green"],
+      ["blue", "yellow", "green", "yellow"],
+      ["blue", "red", "blue", "yellow"]
+    ],
+    "locked": [[1, 3], [0, 1]]
+  },
+  {
+    "level": 38,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 6,
+    "grid": [
+      ["blue", "red", "red"],
+      ["blue", "green", "blue"],
+      ["yellow", "yellow", "green"],
+      ["yellow", "green", "red"]
+    ],
+    "locked": [[2, 0], [0, 0]]
+  },
+  {
+    "level": 39,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["green", "yellow", "green", "red"],
+      ["green", "yellow", "blue", "blue"],
+      ["yellow", "red", "blue", "red"]
+    ],
+    "locked": [[1, 2], [1, 3]]
+  },
+  {
+    "level": 40,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["red", "green", "blue"],
+      ["yellow", "yellow", "green"],
+      ["blue", "yellow", "blue"],
+      ["red", "green", "red"]
+    ],
+    "locked": [[3, 2], [1, 2]]
+  },
+
+  {
+    "level": 41,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 5,
+    "grid": [
+      ["blue", "green", "blue", "blue"],
+      ["red", "yellow", "yellow", "green"],
+      ["red", "red", "yellow", "green"]
+    ],
+    "sticky": [[2, 3], [0, 2]]
+  },
+  {
+    "level": 42,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 6,
+    "grid": [
+      ["yellow", "yellow", "green"],
+      ["red", "red", "blue"],
+      ["yellow", "green", "red"],
+      ["blue", "green", "blue"]
+    ],
+    "sticky": [[0, 0], [3, 1]]
+  },
+  {
+    "level": 43,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["green", "yellow", "blue", "blue"],
+      ["red", "red", "blue", "yellow"],
+      ["green", "yellow", "red", "green"]
+    ],
+    "sticky": [[1, 1], [0, 3]]
+  },
+  {
+    "level": 44,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 5,
+    "grid": [
+      ["red", "green", "green"],
+      ["red", "blue", "yellow"],
+      ["green", "yellow", "yellow"],
+      ["blue", "red", "blue"]
+    ],
+    "sticky": [[1, 0], [0, 0]]
+  },
+  {
+    "level": 45,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 5,
+    "grid": [
+      ["red", "green", "yellow", "yellow"],
+      ["green", "yellow", "red", "blue"],
+      ["blue", "blue", "green", "red"]
+    ],
+    "sticky": [[1, 0], [2, 3]]
+  },
+  {
+    "level": 46,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 6,
+    "grid": [
+      ["green", "blue", "yellow"],
+      ["blue", "blue", "red"],
+      ["red", "red", "yellow"],
+      ["green", "yellow", "green"]
+    ],
+    "sticky": [[1, 0], [0, 1]]
+  },
+  {
+    "level": 47,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["green", "blue", "red", "yellow"],
+      ["red", "yellow", "blue", "green"],
+      ["yellow", "red", "green", "blue"]
+    ],
+    "sticky": [[0, 2], [2, 1]]
+  },
+  {
+    "level": 48,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 6,
+    "grid": [
+      ["blue", "green", "yellow"],
+      ["red", "yellow", "red"],
+      ["red", "blue", "green"],
+      ["green", "blue", "yellow"]
+    ],
+    "sticky": [[2, 0], [3, 2]]
+  },
+  {
+    "level": 49,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 5,
+    "grid": [
+      ["red", "blue", "blue", "red"],
+      ["red", "green", "yellow", "yellow"],
+      ["blue", "yellow", "green", "green"]
+    ],
+    "sticky": [[0, 3], [1, 2]]
+  },
+  {
+    "level": 50,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 6,
+    "grid": [
+      ["blue", "yellow", "yellow"],
+      ["red", "green", "red"],
+      ["blue", "green", "red"],
+      ["blue", "yellow", "green"]
+    ],
+    "sticky": [[0, 0], [1, 1]]
+  },
+
+  {
+    "level": 51,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 5,
+    "grid": [
+      ["yellow", "green", "blue", "blue"],
+      ["yellow", "green", "green", "yellow"],
+      ["blue", "red", "red", "red"]
+    ],
+    "locked": [[0, 0]],
+    "sticky": [[1, 1], [2, 2]]
+  },
+  {
+    "level": 52,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 5,
+    "grid": [
+      ["red", "green", "green"],
+      ["red", "blue", "yellow"],
+      ["yellow", "blue", "yellow"],
+      ["green", "red", "blue"]
+    ],
+    "locked": [[1, 1]],
+    "sticky": [[1, 0], [2, 1]]
+  },
+  {
+    "level": 53,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 6,
+    "grid": [
+      ["green", "blue", "red", "yellow"],
+      ["blue", "green", "red", "red"],
+      ["yellow", "yellow", "blue", "green"]
+    ],
+    "locked": [[0, 0]],
+    "sticky": [[1, 3], [2, 2]]
+  },
+  {
+    "level": 54,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["green", "green", "blue"],
+      ["yellow", "red", "red"],
+      ["yellow", "yellow", "blue"],
+      ["red", "green", "blue"]
+    ],
+    "locked": [[3, 2]],
+    "sticky": [[0, 1], [3, 1]]
+  },
+  {
+    "level": 55,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 8,
+    "grid": [
+      ["yellow", "green", "red", "yellow"],
+      ["green", "red", "yellow", "red"],
+      ["blue", "green", "blue", "blue"]
+    ],
+    "locked": [[2, 0]],
+    "sticky": [[1, 3], [1, 1]]
+  },
+  {
+    "level": 56,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 5,
+    "grid": [
+      ["yellow", "yellow", "yellow"],
+      ["red", "blue", "green"],
+      ["blue", "green", "red"],
+      ["red", "green", "blue"]
+    ],
+    "locked": [[0, 2], [3, 2]],
+    "sticky": [[0, 0], [2, 2]]
+  },
+  {
+    "level": 57,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 5,
+    "grid": [
+      ["blue", "green", "yellow", "green"],
+      ["yellow", "yellow", "blue", "green"],
+      ["red", "red", "red", "blue"]
+    ],
+    "locked": [[0, 3], [2, 1]],
+    "sticky": [[1, 2], [1, 0]]
+  },
+  {
+    "level": 58,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["yellow", "red", "red"],
+      ["green", "blue", "green"],
+      ["green", "red", "yellow"],
+      ["yellow", "blue", "blue"]
+    ],
+    "locked": [[0, 1], [3, 0]],
+    "sticky": [[1, 0], [0, 2]]
+  },
+  {
+    "level": 59,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 5,
+    "grid": [
+      ["green", "red", "blue", "yellow"],
+      ["green", "red", "blue", "blue"],
+      ["yellow", "green", "yellow", "red"]
+    ],
+    "locked": [[1, 1], [0, 0]],
+    "sticky": [[0, 2], [0, 1]]
+  },
+  {
+    "level": 60,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 5,
+    "grid": [
+      ["blue", "green", "green"],
+      ["green", "yellow", "blue"],
+      ["yellow", "red", "red"],
+      ["blue", "red", "yellow"]
+    ],
+    "locked": [[3, 1], [0, 1]],
+    "sticky": [[3, 0], [2, 2]]
+  },
+  {
+    "level": 61,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["red", "yellow", "green", "red"],
+      ["yellow", "green", "blue", "blue"],
+      ["blue", "yellow", "green", "red"]
+    ],
+    "locked": [[0, 3], [2, 2]],
+    "sticky": [[1, 1], [0, 1]]
+  },
+  {
+    "level": 62,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["red", "yellow", "green"],
+      ["yellow", "green", "green"],
+      ["blue", "yellow", "blue"],
+      ["red", "red", "blue"]
+    ],
+    "locked": [[2, 1], [2, 2]],
+    "sticky": [[3, 0], [0, 1]]
+  },
+  {
+    "level": 63,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["blue", "yellow", "blue", "red"],
+      ["green", "blue", "red", "yellow"],
+      ["green", "yellow", "green", "red"]
+    ],
+    "locked": [[0, 2], [0, 1]],
+    "sticky": [[2, 3], [0, 3]]
+  },
+  {
+    "level": 64,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["red", "green", "blue"],
+      ["yellow", "blue", "green"],
+      ["red", "yellow", "green"],
+      ["yellow", "red", "blue"]
+    ],
+    "locked": [[0, 2], [2, 1]],
+    "sticky": [[3, 0], [1, 2]]
+  },
+  {
+    "level": 65,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["yellow", "green", "blue", "red"],
+      ["green", "red", "red", "yellow"],
+      ["yellow", "blue", "blue", "green"]
+    ],
+    "locked": [[2, 2], [2, 1]],
+    "sticky": [[0, 1], [0, 0]]
+  },
+  {
+    "level": 66,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 8,
+    "grid": [
+      ["red", "blue", "red"],
+      ["blue", "blue", "green"],
+      ["yellow", "green", "yellow"],
+      ["red", "yellow", "green"]
+    ],
+    "locked": [[2, 1], [0, 1]],
+    "sticky": [[3, 2], [0, 0]]
+  },
+  {
+    "level": 67,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 8,
+    "grid": [
+      ["green", "blue", "green", "blue"],
+      ["red", "yellow", "green", "yellow"],
+      ["yellow", "blue", "red", "red"]
+    ],
+    "locked": [[2, 3], [0, 2]],
+    "sticky": [[1, 1], [2, 1]]
+  },
+  {
+    "level": 68,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 8,
+    "grid": [
+      ["green", "yellow", "blue"],
+      ["green", "blue", "red"],
+      ["green", "yellow", "red"],
+      ["red", "yellow", "blue"]
+    ],
+    "locked": [[1, 2], [2, 0]],
+    "sticky": [[0, 2], [1, 0]]
+  },
+  {
+    "level": 69,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 8,
+    "grid": [
+      ["green", "blue", "red", "blue"],
+      ["red", "blue", "red", "green"],
+      ["green", "yellow", "yellow", "yellow"]
+    ],
+    "locked": [[1, 0], [0, 3]],
+    "sticky": [[0, 1], [2, 1]]
+  },
+  {
+    "level": 70,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 8,
+    "grid": [
+      ["red", "blue", "yellow"],
+      ["yellow", "blue", "red"],
+      ["green", "blue", "green"],
+      ["green", "yellow", "red"]
+    ],
+    "locked": [[3, 0], [0, 2]],
+    "sticky": [[0, 1], [1, 0]]
+  },
+  {
+    "level": 71,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["yellow", "yellow", "green", "green"],
+      ["red", "yellow", "red", "blue"],
+      ["green", "red", "blue", "blue"]
+    ],
+    "locked": [[0, 3], [1, 1]],
+    "sticky": [[2, 1], [1, 0]]
+  },
+  {
+    "level": 72,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["green", "blue", "red"],
+      ["yellow", "blue", "yellow"],
+      ["green", "red", "red"],
+      ["blue", "green", "yellow"]
+    ],
+    "locked": [[1, 1], [0, 1]],
+    "sticky": [[1, 0], [2, 0]]
+  },
+  {
+    "level": 73,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["red", "green", "blue", "red"],
+      ["green", "yellow", "yellow", "green"],
+      ["blue", "blue", "red", "yellow"]
+    ],
+    "locked": [[1, 2], [2, 0]],
+    "sticky": [[1, 1], [0, 3]]
+  },
+  {
+    "level": 74,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["green", "blue", "red"],
+      ["green", "yellow", "yellow"],
+      ["blue", "red", "red"],
+      ["yellow", "blue", "green"]
+    ],
+    "locked": [[2, 0], [1, 2]],
+    "sticky": [[0, 0], [2, 2]]
+  },
+  {
+    "level": 75,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["red", "yellow", "yellow", "green"],
+      ["blue", "yellow", "red", "red"],
+      ["green", "blue", "green", "blue"]
+    ],
+    "locked": [[2, 0], [0, 0]],
+    "sticky": [[0, 1], [2, 3]]
+  },
+  {
+    "level": 76,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["red", "yellow", "yellow"],
+      ["blue", "blue", "red"],
+      ["green", "green", "red"],
+      ["yellow", "green", "blue"]
+    ],
+    "locked": [[0, 2], [2, 0]],
+    "sticky": [[3, 2], [1, 2]]
+  },
+  {
+    "level": 77,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["yellow", "yellow", "blue", "green"],
+      ["green", "green", "red", "blue"],
+      ["blue", "yellow", "red", "red"]
+    ],
+    "locked": [[2, 2], [2, 0]],
+    "sticky": [[0, 3], [2, 3]]
+  },
+  {
+    "level": 78,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["red", "yellow", "blue"],
+      ["red", "yellow", "green"],
+      ["blue", "blue", "green"],
+      ["yellow", "green", "red"]
+    ],
+    "locked": [[0, 0], [1, 0]],
+    "sticky": [[3, 1], [3, 0]]
+  },
+  {
+    "level": 79,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["yellow", "yellow", "blue", "red"],
+      ["yellow", "blue", "green", "green"],
+      ["green", "blue", "red", "red"]
+    ],
+    "locked": [[0, 2], [2, 3]],
+    "sticky": [[1, 1], [2, 2]]
+  },
+  {
+    "level": 80,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["yellow", "red", "blue"],
+      ["yellow", "green", "yellow"],
+      ["red", "green", "red"],
+      ["blue", "green", "blue"]
+    ],
+    "locked": [[2, 0], [1, 2]],
+    "sticky": [[1, 1], [3, 0]]
+  },
+  
+  {
+    "level": 81,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["blue", "red", "green", "blue"],
+      ["yellow", "yellow", "red", "green"],
+      ["blue", "red", "green", "yellow"]
+    ],
+    "locked": [[0, 0], [2, 1]],
+    "sticky": [[1, 2], [0, 2]]
+  },
+  {
+    "level": 82,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["red", "green", "blue"],
+      ["red", "red", "green"],
+      ["yellow", "green", "yellow"],
+      ["yellow", "blue", "blue"]
+    ],
+    "locked": [[2, 1], [2, 0]],
+    "sticky": [[3, 2], [0, 1]]
+  },
+  {
+    "level": 83,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["blue", "yellow", "green", "yellow"],
+      ["green", "blue", "yellow", "red"],
+      ["blue", "red", "green", "red"]
+    ],
+    "locked": [[0, 1], [0, 2]],
+    "sticky": [[2, 0], [0, 0]]
+  },
+  {
+    "level": 84,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 7,
+    "grid": [
+      ["yellow", "red", "blue"],
+      ["red", "yellow", "green"],
+      ["red", "green", "blue"],
+      ["yellow", "blue", "green"]
+    ],
+    "locked": [[0, 0], [2, 1]],
+    "sticky": [[3, 2], [1, 0]]
+  },
+  {
+    "level": 85,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 7,
+    "grid": [
+      ["blue", "yellow", "red", "green"],
+      ["green", "blue", "blue", "red"],
+      ["red", "yellow", "yellow", "green"]
+    ],
+    "locked": [[2, 1], [2, 2]],
+    "sticky": [[0, 2], [0, 3]]
+  },
+  {
+    "level": 86,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 8,
+    "grid": [
+      ["blue", "yellow", "blue"],
+      ["red", "yellow", "yellow"],
+      ["green", "red", "green"],
+      ["red", "green", "blue"]
+    ],
+    "locked": [[2, 1], [0, 1]],
+    "sticky": [[3, 0], [0, 2]]
+  },
+  {
+    "level": 87,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 8,
+    "grid": [
+      ["yellow", "red", "yellow", "red"],
+      ["green", "red", "green", "blue"],
+      ["blue", "blue", "yellow", "green"]
+    ],
+    "locked": [[2, 0], [0, 1]],
+    "sticky": [[1, 2], [2, 2]]
+  },
+  {
+    "level": 88,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 8,
+    "grid": [
+      ["yellow", "green", "red"],
+      ["blue", "yellow", "red"],
+      ["blue", "green", "red"],
+      ["yellow", "green", "blue"]
+    ],
+    "locked": [[1, 0], [2, 2]],
+    "sticky": [[0, 0], [1, 2]]
+  },
+  {
+    "level": 89,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 8,
+    "grid": [
+      ["yellow", "blue", "yellow", "red"],
+      ["red", "blue", "yellow", "blue"],
+      ["green", "green", "green", "red"]
+    ],
+    "locked": [[1, 3], [0, 0]],
+    "sticky": [[0, 2], [2, 2]]
+  },
+  {
+    "level": 90,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 8,
+    "grid": [
+      ["green", "yellow", "blue"],
+      ["blue", "yellow", "green"],
+      ["red", "yellow", "red"],
+      ["blue", "green", "red"]
+    ],
+    "locked": [[3, 2], [0, 0]],
+    "sticky": [[0, 1], [1, 2]]
+  },
+  {
+    "level": 91,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["red", "red", "green", "green"],
+      ["yellow", "blue", "green", "blue"],
+      ["yellow", "yellow", "blue", "red"]
+    ],
+    "locked": [[0, 0], [1, 2]],
+    "sticky": [[2, 2], [1, 3]]
+  },
+  {
+    "level": 92,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["blue", "yellow", "red"],
+      ["green", "yellow", "green"],
+      ["blue", "blue", "red"],
+      ["green", "red", "yellow"]
+    ],
+    "locked": [[1, 1], [0, 1]],
+    "sticky": [[1, 2], [2, 2]]
+  },
+  {
+    "level": 93,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["blue", "yellow", "red", "blue"],
+      ["red", "green", "green", "red"],
+      ["green", "blue", "yellow", "yellow"]
+    ],
+    "locked": [[1, 1], [2, 3]],
+    "sticky": [[1, 2], [0, 0]]
+  },
+  {
+    "level": 94,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["blue", "yellow", "red"],
+      ["green", "green", "red"],
+      ["blue", "blue", "yellow"],
+      ["red", "yellow", "green"]
+    ],
+    "locked": [[2, 2], [1, 0]],
+    "sticky": [[0, 2], [2, 0]]
+  },
+  {
+    "level": 95,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["red", "green", "green", "blue"],
+      ["blue", "blue", "green", "yellow"],
+      ["yellow", "red", "yellow", "red"]
+    ],
+    "locked": [[2, 3], [0, 3]],
+    "sticky": [[0, 2], [2, 0]]
+  },
+  {
+    "level": 96,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["green", "green", "blue"],
+      ["blue", "yellow", "yellow"],
+      ["blue", "red", "red"],
+      ["yellow", "red", "green"]
+    ],
+    "locked": [[0, 0], [2, 2]],
+    "sticky": [[3, 0], [1, 0]]
+  },
+  {
+    "level": 97,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["red", "yellow", "green", "green"],
+      ["yellow", "blue", "red", "red"],
+      ["blue", "blue", "green", "yellow"]
+    ],
+    "locked": [[2, 1], [2, 3]],
+    "sticky": [[0, 0], [2, 0]]
+  },
+  {
+    "level": 98,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["yellow", "green", "blue"],
+      ["red", "green", "blue"],
+      ["red", "yellow", "yellow"],
+      ["blue", "red", "green"]
+    ],
+    "locked": [[0, 2], [1, 2]],
+    "sticky": [[3, 1], [3, 2]]
+  },
+  {
+    "level": 99,
+    "rows": 3,
+    "cols": 4,
+    "minMoves": 9,
+    "grid": [
+      ["blue", "yellow", "green", "green"],
+      ["red", "red", "yellow", "green"],
+      ["blue", "blue", "yellow", "red"]
+    ],
+    "locked": [[0, 1], [2, 0]],
+    "sticky": [[1, 2], [2, 1]]
+  },
+  {
+    "level": 100,
+    "rows": 4,
+    "cols": 3,
+    "minMoves": 9,
+    "grid": [
+      ["yellow", "blue", "green"],
+      ["green", "red", "green"],
+      ["blue", "red", "blue"],
+      ["yellow", "red", "yellow"]
+    ],
+    "locked": [[2, 2], [1, 0]],
+    "sticky": [[1, 1], [3, 2]]
+  }
+
+
+  ]
+}
